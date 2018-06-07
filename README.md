@@ -11,31 +11,21 @@ StickyHeaderListView是基于实际需求做出的灵活可变的UI视图，具�
 七、实现了数据不足一屏动态添加空数据占位。  
 八、数据为空时ListView多type加载暂无数据视图。  
 
-### 动态效果图
-
-<img src="/screenshots/stickyheader.gif" style="width: 30%;"/>
-
 <br/>
-
-<img src="/screenshots/stickyheader2.gif" style="width: 30%;"/>
 
 ### 应用截图
 
-<table>
-    <tr>
-        <td><img src="/screenshots/StickyHeaderListView2.png" style="width: 30%;"></td>
-        <td><img src="/screenshots/StickyHeaderListView3.png" style="width: 30%;"></td>
-    </tr>
-</table>
+<img src="/resources/res.png">
 
 <br/>
 
-<table>
-    <tr>
-        <td><img src="/screenshots/StickyHeaderListView4.png" style="width: 30%;"></td>
-        <td><img src="/screenshots/StickyHeaderListView5.png" style="width: 30%;"></td>
-    </tr>
-</table>
+### 动态效果图
+
+<img src="/resources/stickyheader.gif" style="width: 20%;"/>
+
+<br/>
+
+<img src="/resources/stickyheader2.gif" style="width: 20%;"/>
 
 <br/>
 
@@ -43,26 +33,33 @@ StickyHeaderListView是基于实际需求做出的灵活可变的UI视图，具�
 
 <br/>
 
-### [APK下载地址](http://fir.im/StickyListView)
+### 扫一扫[Fir.im](https://fir.im/StickyListView)二维码下载APK
+
+<img src="/resources/fir.im.png" style="width: 30%;" alt="s">
 
 <br/>
 
-### 微信公众号
+### 个人微信公众号
 
-<img src="/screenshots/微信公众号.jpg" style="width: 30%;">
+<img src="http://ourvm0t8d.bkt.clouddn.com/wx_gongzhonghao.png">
+
+<br/>
+
+### 打点赏给作者加点油^_^
+
+<img src="http://ourvm0t8d.bkt.clouddn.com/wx_shoukuanma.png" >
+
+<br/>
 
 ### 关于我
 
-个人邮箱：sfsheng0322@126.com
+[GitHub: sfsheng0322](https://github.com/sfsheng0322)  
 
-[GitHub主页](https://github.com/sfsheng0322)
-
+[个人邮箱: sfsheng0322@126.com](https://mail.126.com/)
+  
+[个人博客: sunfusheng.com](http://sunfusheng.com/)
+  
 [简书主页](http://www.jianshu.com/users/88509e7e2ed1/latest_articles)
-
-[个人博客](http://sunfusheng.com/)
-
-[新浪微博](http://weibo.com/u/3852192525)
-
-
-
+  
+[新浪微博](http://weibo.com/u/3852192525) 
 
